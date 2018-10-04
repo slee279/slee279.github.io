@@ -1,7 +1,12 @@
 title: Welcome! I'm Steve
 name: Steve Lee
 email: slee279@illinois.edu
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: I’m a performance-driven data scientist and an extreme sabermetrics fan. 
+I am a firm believer that data and statistics can improve the quality of life and drive practical solutions to the team. 
+I value attention to details and results in data science. 
+My programming skills and background in statistics have helped me to find the real power of data science and to produce tangible results.
+
+#Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 baseurl: "/blog"
 url: ""
@@ -11,26 +16,26 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
+project_one: "ACT vs SAT"
 project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: https://github.com/slee279/ACT_SAT_Comparison
 project_one_icon: location_on
 
-project_two: Second Project
+project_two: "Ames Housing Price"
 project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: https://github.com/slee279/Ames
 project_two_icon: photo_camera
 
 
-project_three: Third Project
+project_three: "Reddit API"
 project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: https://github.com/slee279/Reddit
 project_three_icon: hotel
 
 
-project_four: Fourth Project
+project_four: "West Nile Virus in Chicago"
 project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: https://github.com/slee279/WMV
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
@@ -42,86 +47,36 @@ syntax_highlighting: true
 skills:
   - name: amazonwebservices
   - name: android
-  - name: angularjs
   - name: apache
-  - name: appcelerator
   - name: apple
   - name: atom
-  - name: babel
-  - name: backbonejs
-  - name: bitbucket
   - name: bootstrap
-  - name: bower
   - name: c
   - name: chrome
-  - name: codeigniter
-  - name: coffescript
-  - name: confluence
   - name: cplusplus
-  - name: csharp
   - name: css3
-  - name: cucumber
-  - name: d3js
-  - name: debian
-  - name: devicon
   - name: django
   - name: docker
-  - name: doctrine
-  - name: dot-net
-  - name: drupal
-  - name: erlang
   - name: facebook
   - name: firefox
-  - name: foundation
-  - name: gatling
-  - name: gimp
   - name: git
   - name: github
-  - name: gitlab
-  - name: go
   - name: google
-  - name: gradle
-  - name: grunt
-  - name: gulp
-  - name: heroku
   - name: html5
   - name: ie10
   - name: illustrator
-  - name: inkscape
   - name: itellij
   - name: java
-  - name: jasmine
   - name: javascript
-  - name: laravel
-  - name: less
   - name: linux
-  - name: meteor
-  - name: mocha
   - name: mongodb
   - name: moodle
   - name: mysql
-  - name: nginx
-  - name: nodejs
-  - name: nodewebkit
-  - name: oracle
   - name: photoshop
-  - name: php
-  - name: phpstorm
-  - name: protractor
   - name: postgresql
   - name: python
-  - name: pycharm
-  - name: rails
-  - name: react
-  - name: redhat
-  - name: redis
-  - name: ruby
-  - name: rubymine
   - name: safari
-  - name: sass
-  - name: sequelize
   - name: slack
-  - name: sourcetree
   - name: ssh
   - name: twitter
   - name: ubuntu

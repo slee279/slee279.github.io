@@ -123,23 +123,11 @@ skills:
   - name: slack
   - name: sourcetree
   - name: ssh
-  - name: swift
-  - name: symfony
-  - name: tomcat
-  - name: travis
-  - name: trello
   - name: twitter
-  - name: typescript
   - name: ubuntu
   - name: vim
-  - name: visualstudio
-  - name: vuejs
-  - name: webpack
-  - name: webstorm
   - name: windows8
-  - name: wordpress
-  - name: yii
-  - name: zend
+
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons

@@ -78,7 +78,7 @@ skills:
   - name: twitter
   - name: ubuntu
   - name: vim
-  - name: windows10
+  - name: windows8
 
 
 icon_size: 50 # font-size of icons in px
@@ -87,7 +87,7 @@ colored: colored # Leave blank for black and white icons
 project_button: Github
 
 github: https://github.com/slee279
-medium: https://medium.com
+medium: https://slee279.github.io/online-cv/
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site

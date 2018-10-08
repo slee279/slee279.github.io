@@ -35,6 +35,16 @@ project_four_description: Describe your project!
 project_four_url: https://github.com/slee279/WMV
 project_four_icon: restaurant
 
+project_four: "Project 5"
+project_four_description: Describe your project!
+project_four_url: 
+project_four_icon: restaurant
+
+project_four: "Project 6"
+project_four_description: Describe your project!
+project_four_url: 
+project_four_icon: restaurant
+
 portfolio_heading: Portfolio
 portfolio_type: cards
 

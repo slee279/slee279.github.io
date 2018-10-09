@@ -16,83 +16,31 @@ parallax_image_two: assets/images/startup3.jpg
 project_one: "ACT vs SAT"
 project_one_description: Describe your project!
 project_one_url: https://github.com/slee279/ACT_SAT_Comparison
-project_one_icon: location_on
 
 project_two: "Ames Housing Price"
 project_two_description: Describe your project!
 project_two_url: https://github.com/slee279/Ames
-project_two_icon: photo_camera
-
 
 project_three: "Reddit API"
 project_three_description: Describe your project!
 project_three_url: https://github.com/slee279/Reddit
-project_three_icon: hotel
-
 
 project_four: "West Nile Virus in Chicago"
 project_four_description: Describe your project!
 project_four_url: https://github.com/slee279/WMV
-project_four_icon: restaurant
 
-project_five: "Project 5"
+project_five: "Predicting EPL 18/19"
 project_five_description: Describe your project!
-project_five_url: 
-project_five_icon: restaurant
+project_five_url: https://github.com/slee279/EPL
 
-project_six: "Project 6"
+project_six: "Donut Delights"
 project_six_description: Describe your project!
-project_six_url: 
-project_six_icon: restaurant
+project_six_url: https://slee279.github.io/donut
 
 portfolio_heading: Portfolio
 portfolio_type: cards
 
 syntax_highlighting: true
-# Skill icons from https://konpa.github.io/devicon/
-
-skills:
-  - name: amazonwebservices
-  - name: android
-  - name: apache
-  - name: apple
-  - name: atom
-  - name: bootstrap
-  - name: c
-  - name: chrome
-  - name: cplusplus
-  - name: css3
-  - name: django
-  - name: docker
-  - name: facebook
-  - name: firefox
-  - name: git
-  - name: github
-  - name: google
-  - name: html5
-  - name: ie10
-  - name: illustrator
-  - name: itellij
-  - name: java
-  - name: javascript
-  - name: linux
-  - name: mongodb
-  - name: moodle
-  - name: mysql
-  - name: photoshop
-  - name: postgresql
-  - name: python
-  - name: safari
-  - name: slack
-  - name: ssh
-  - name: twitter
-  - name: ubuntu
-  - name: vim
-  - name: windows8
-
-
-icon_size: 50 # font-size of icons in px
-colored: colored # Leave blank for black and white icons
 
 project_button: Github
 
@@ -105,10 +53,6 @@ url: https://slee279.github.io/ #the url of your site
 # Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
 tag_manager_id: # This looks something like GTM-XXXXXXX
 google_analytics_tracking_id: UA-77280779-2 # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
-
-cookies_banner: none # The value "show" will show the cookies banner, the value "none" will hide the banner.
-
-cookie_accept_message: Thanks!
 
 syntax_highlighting: true # include the css for syntax highlighting
 

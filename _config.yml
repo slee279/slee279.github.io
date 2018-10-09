@@ -34,8 +34,9 @@ project_five_description: Describe your project!
 project_five_url: https://github.com/slee279/EPL
 
 project_six: "Donut Delights"
-project_six_description: Describe your project!
-project_six_url: https://slee279.github.io/donut
+project_six_description: Demo website using HTML/CSS/Java Script
+                         https://slee279.github.io/donut
+project_six_url: https://github.com/donut
 
 portfolio_heading: Portfolio
 portfolio_type: cards

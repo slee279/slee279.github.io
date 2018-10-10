@@ -27,8 +27,8 @@ project_three_url: https://github.com/slee279/Reddit
 
 project_four: "West Nile Virus in Chicago"
 project_four_description: Predicting West Nile Virus in Chicago.  
-Kaggle Overview Description: <a href="https://www.kaggle.com/c/predict-west-nile-virus" target="_blank">Kaggle Competition</a>   
-<a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
+                          Kaggle Overview Description: <a href="https://www.kaggle.com/c/predict-west-nile-virus" target="_blank">Kaggle Competition</a>   
+                          <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_four_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_four_url: https://github.com/slee279/WNV
 

@@ -14,15 +14,15 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "ACT vs SAT"
-project_one_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/SAT_Scores/Sheet1?publish=yes" target="_blank">Tableau public</a>
+project_one_description: Use Python libraries including Numpy, pandas, Matplotlib, Seaborn to visualize SAT and ACT data<br><a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/SAT_Scores/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_one_url: https://github.com/slee279/ACT_SAT_Comparison
 
 project_two: "Ames Housing Price"
-project_two_description: Describe your project!
+project_two_description: Use Python sklearn library to predict house prices at Ames<br><a href="https://www.kaggle.com/" target="_blank">Kaggle</a>
 project_two_url: https://github.com/slee279/Ames
 
 project_three: "Reddit API"
-project_three_description: Describe your project!
+project_three_description: Use Natural Language Processing(NLP) to predict where posts are written<br>Web scraping using Reddit API and BeautifulSoup, JSON library
 project_three_url: https://github.com/slee279/Reddit
 
 project_four: "West Nile Virus in Chicago"

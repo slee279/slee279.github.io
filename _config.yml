@@ -26,7 +26,7 @@ project_three_description: Describe your project!
 project_three_url: https://github.com/slee279/Reddit
 
 project_four: "West Nile Virus in Chicago"
-project_four_description: Describe your project!
+project_four_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes">Tableau public</a>
 project_four_url: https://github.com/slee279/WNV
 
 project_five: "Predicting EPL 18/19"

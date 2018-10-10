@@ -26,16 +26,19 @@ project_three_description: Describe your project!
 project_three_url: https://github.com/slee279/Reddit
 
 project_four: "West Nile Virus in Chicago"
+project_four_description: Predicting West Nile Virus in Chicago.  
+Kaggle Overview Description: <a href="https://www.kaggle.com/c/predict-west-nile-virus" target="_blank">Kaggle Competition</a>   
+<a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_four_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_four_url: https://github.com/slee279/WNV
 
 project_five: "Predicting EPL 18/19"
-project_five_description: Describe your project!
+project_five_description: EPL Season Predictor Soccer Match Predictor will predict the result of each matches and the final standing of English Premier League 2018/2019 (EPL) using past five seasons (2013/14 ~ 2017/18) and Pro Evolution Soccer Database.
 project_five_url: https://github.com/slee279/EPL
 
 project_six: "Donut Delights"
 project_six_description: Demo website using HTML/CSS/Java Script
-                         https://slee279.github.io/donut
+                         <a href="https://slee279.github.io/donut" target="_blank">Donut Delights!</a>
 project_six_url: https://github.com/donut
 
 portfolio_heading: Portfolio

@@ -14,7 +14,7 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: "ACT vs SAT"
-project_one_description: Describe your project!
+project_one_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/SAT_Scores/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_one_url: https://github.com/slee279/ACT_SAT_Comparison
 
 project_two: "Ames Housing Price"
@@ -26,7 +26,7 @@ project_three_description: Describe your project!
 project_three_url: https://github.com/slee279/Reddit
 
 project_four: "West Nile Virus in Chicago"
-project_four_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes">Tableau public</a>
+project_four_description: <a href="https://public.tableau.com/profile/steve.lee4745#!/vizhome/NumMosWnvbyDateMonth/Sheet1?publish=yes" target="_blank">Tableau public</a>
 project_four_url: https://github.com/slee279/WNV
 
 project_five: "Predicting EPL 18/19"

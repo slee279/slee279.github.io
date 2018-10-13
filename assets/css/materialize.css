@@ -1,20 +1,3 @@
-.fill {
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    overflow: hidden !important
-}
-.fill img {
-    flex-shrink: 0 !important;
-    min-width: 100% !important;
-    min-height: 100% !important
-}
-.object-fit_fill { object-fit: fill !important}
-.object-fit_contain { object-fit: contain !important}
-.object-fit_cover { object-fit: cover !important}
-.object-fit_none { object-fit: none !important}
-.object-fit_scale-down { object-fit: scale-down !important}
-
 /*!
  * Materialize v0.100.2 (http://materializecss.com)
  * Copyright 2014-2017 Materialize

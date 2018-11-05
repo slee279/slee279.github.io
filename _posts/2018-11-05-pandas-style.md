@@ -6,8 +6,8 @@ image:
 categories: [Pandas, Styling]
 ---
 
-<img src="https://raw.githubusercontent.com/slee279/slee279.github.io/master/assets/images/blog_img/example1.png">
-<img src="https://raw.githubusercontent.com/slee279/slee279.github.io/master/assets/images/blog_img/example2.png">
+<img width="200" heigth="200" src="https://raw.githubusercontent.com/slee279/slee279.github.io/master/assets/images/blog_img/example1.png">
+<img width="200" height="200" src="https://raw.githubusercontent.com/slee279/slee279.github.io/master/assets/images/blog_img/example2.png">
 
 
 {% include wnv_tableau.html %}
